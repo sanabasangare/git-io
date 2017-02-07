@@ -1,0 +1,36 @@
+body {
+    background-color: #fff;
+    font-family: 'Lato', sans-serif;
+    color: #35f;
+    font-weight: 300;
+}
+.text-muted {
+    color: #d6f;
+    padding-top: 5px
+}
+.text-thin {
+    font-weight: 100;
+}
+.header-title {
+    font-size: 60px;
+    display: inline;
+}
+.title-logo {
+    margin-top: 13px;
+    display: inline;
+    float: left;
+}
+.container {
+    display: block;
+}
+.img-responsive {
+    display: inline;
+}
+.col-md-4 {
+    text-align: center;
+    padding-top: 10px
+}
+footer {
+    text-align: center;
+    margin: 30px;
+}
